@@ -18,10 +18,6 @@ Installation
 
 Prerequisites:
 
-Python 3.x
-
-Required libraries: numpy, pandas, scikit-learn, geopy
-
 pip install numpy pandas scikit-learn geopy
 
 Implementation
@@ -75,3 +71,4 @@ Contributors
 Your Name (your.email@example.com)
 
 Feel free to update images and details as per your implementation!
+
